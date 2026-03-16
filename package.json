@@ -2,7 +2,7 @@
   "name": "nodeproject-informationalsite",
   "version": "1.0.0",
   "description": "This is a very simple proof-of-concept-like webpage, basically showing comprehension of the Node documentation and basic backend skills. Do not expect anything super amazing.",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,7 +13,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "module",
+  "type": "commonjs",
   "bugs": {
     "url": "https://github.com/SapphicBear/nodeProject-InformationalSite/issues"
   },
