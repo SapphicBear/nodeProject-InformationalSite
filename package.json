@@ -1,0 +1,24 @@
+{
+  "name": "nodeproject-informationalsite",
+  "version": "1.0.0",
+  "description": "This is a very simple proof-of-concept-like webpage, basically showing comprehension of the Node documentation and basic backend skills. Do not expect anything super amazing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SapphicBear/nodeProject-InformationalSite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/SapphicBear/nodeProject-InformationalSite/issues"
+  },
+  "homepage": "https://github.com/SapphicBear/nodeProject-InformationalSite#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
